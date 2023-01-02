@@ -1,0 +1,8 @@
+h1{
+    color:green;
+}
+#container{
+min-width: 300px;
+height:30px;
+border: 3px solid grey;
+}
